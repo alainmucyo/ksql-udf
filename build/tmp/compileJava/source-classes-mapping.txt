@@ -1,0 +1,10 @@
+com/example/FormulaUdf.java
+ com.example.FormulaUdf
+com/example/IndexSequenceUdtf.java
+ com.example.IndexSequenceUdtf
+com/example/RollingSumUdaf.java
+ com.example.RollingSumUdaf
+ com.example.RollingSumUdaf$1
+ com.example.RollingSumUdaf$RollingSumUdafImpl
+com/example/Main.java
+ com.example.Main
